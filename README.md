@@ -24,5 +24,5 @@ To run this app, you'll need the following dependencies:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/llama-vision-image-analysis.git
-cd llama-vision-image-analysis
+git clone https://github.com/VamshikrishnaAluwala/VisionModelLllama3.2.git
+cd VisionModelLllama3.2
