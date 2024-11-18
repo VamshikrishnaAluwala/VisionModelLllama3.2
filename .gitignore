@@ -40,3 +40,7 @@ build/
 .idea/
 *.sublime-project
 *.sublime-workspace
+# Ignore specific directories
+bin/
+lib/python3.12/site-packages/
+share/jupyter/nbextensions/pydeck/
